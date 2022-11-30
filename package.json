@@ -1,5 +1,5 @@
 {
-  "name": "Marshmello_landing",
+  "name": "Besign Landing",
   "version": "1.0.1",
   "description": "",
   "main": "index.html",
@@ -31,8 +31,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "bootstrapdash",
-  "url": "https://www.bootstrapdash.com/",
+  "author": "Everit Jhon",
+  "url": "https://www.everit-jhon.com/",
   "copyright": "",
   "license": ""
 }
